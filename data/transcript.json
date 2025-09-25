@@ -110,5 +110,215 @@
         "start": "2:41",
         "end": "2:47",
         "text": "Thank you, everyone. Meeting adjourned."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.97,
+        "start": "2:48",
+        "end": "2:54",
+        "text": "Actually, wait, let's circle back on the app release details."
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.95,
+        "start": "2:55",
+        "end": "3:04",
+        "text": "Certainly, Alice. What specific part of the release plan would you like to revisit?"
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.96,
+        "start": "3:05",
+        "end": "3:16",
+        "text": "I'm concerned about the **go-to-market strategy** beyond just the technical readiness. Daniel, what's the marketing team's involvement?"
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.93,
+        "start": "3:17",
+        "end": "3:28",
+        "text": "Marketing has a phased launch campaign ready. It starts with a soft announcement next week, followed by press outreach a week before the public launch."
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.94,
+        "start": "3:29",
+        "end": "3:40",
+        "text": "From a technical standpoint, we're planning a **staged rollout** to 10% of users in the first day, gradually increasing to 100% over four days, to manage server load."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.92,
+        "start": "3:41",
+        "end": "3:53",
+        "text": "Clara, does the $200,000 budget increase cover the costs of the additional cloud compute resources required for the initial surge expected during that staged rollout?"
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.91,
+        "start": "3:54",
+        "end": "4:07",
+        "text": "Yes, Bob. A preliminary breakdown shows $150,000 allocated for **new database clusters** and **load balancers**. The remaining $50,000 is a contingency for immediate scaling needs."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.95,
+        "start": "4:08",
+        "end": "4:20",
+        "text": "That's a sound allocation plan. However, we also need to address the **customer support readiness**. A great launch can be ruined by poor post-launch support."
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.93,
+        "start": "4:21",
+        "end": "4:33",
+        "text": "The support team is undergoing intensive training this week. We've created a comprehensive **FAQ document** and trained 15 additional agents specifically on the new app features and known beta-phase issues."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.94,
+        "start": "4:34",
+        "end": "4:47",
+        "text": "To support those agents, we need to ensure the **internal knowledge base** is fully updated and easily searchable. Clara, can your team verify the technical accuracy of those support documents?"
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.93,
+        "start": "4:48",
+        "end": "4:59",
+        "text": "Absolutely. I'll assign one of our senior engineers to audit the support documentation and ensure it aligns with the production environment by the end of tomorrow."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.96,
+        "start": "5:00",
+        "end": "5:12",
+        "text": "Thank you, Clara. Let's shift back to **hiring**. Daniel, you mentioned two backend engineers. What’s the expected time to hire for these roles?"
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.92,
+        "start": "5:13",
+        "end": "5:26",
+        "text": "Our internal metric for these specialized roles is 90 days from job posting to offer acceptance. We’re currently at day 45, but the candidate pipeline is still too thin at the final interview stage."
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.91,
+        "start": "5:27",
+        "end": "5:39",
+        "text": "The engineering team is spending too much time interviewing. The technical screen needs to be more efficient to filter out non-viable candidates before they reach the full team."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.94,
+        "start": "5:40",
+        "end": "5:52",
+        "text": "If we move to external contractors, what's the financial impact? We need to compare the cost of a 6-month contract against the annualized salary plus benefits for a full-time hire."
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.93,
+        "start": "5:53",
+        "end": "6:06",
+        "text": "I’ll include that in the forecast. Preliminary estimates suggest contractors are 30% more expensive in the short term, but they provide immediate expertise without long-term commitment overhead."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.95,
+        "start": "6:07",
+        "end": "6:19",
+        "text": "Let’s focus on **contingency planning**. Daniel, prepare two scenarios: one with two full-time hires starting in 45 days, and one with two contractors starting within two weeks."
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.93,
+        "start": "6:20",
+        "end": "6:33",
+        "text": "If we go with contractors, their ramp-up time is critical. We need to ensure they can contribute to the **post-launch optimization** and not just be a short-term patch for the backlog."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.92,
+        "start": "6:34",
+        "end": "6:46",
+        "text": "Speaking of optimization, the initial $200,000 budget is for infrastructure. We should consider a separate operational budget for monitoring tools and temporary surge capacity in the first two months."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.96,
+        "start": "6:47",
+        "end": "7:00",
+        "text": "Bob, please work with Clara to detail a **post-launch operational budget** for the next leadership review. We need to plan for the unexpected demand."
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.94,
+        "start": "7:01",
+        "end": "7:12",
+        "text": "I will also add a section to my forecast on the **recruiting process optimization**, addressing Clara’s concern about engineering time being consumed by interviews."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.97,
+        "start": "7:13",
+        "end": "7:25",
+        "text": "Excellent additions. So, our updated action items are more granular now. Let's confirm the new tasks and deadlines."
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.95,
+        "start": "7:26",
+        "end": "7:36",
+        "text": "I will finalize the **risk mitigation strategy for scalability** and **audit the customer support knowledge base** by Friday."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.94,
+        "start": "7:37",
+        "end": "7:48",
+        "text": "I will oversee the **initial $200k budget allocation** and prepare a proposal for the **post-launch operational budget** by Tuesday."
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.93,
+        "start": "7:49",
+        "end": "8:01",
+        "text": "I will deliver the **detailed two-scenario hiring forecast** and a proposal for **recruiting process optimization** before next Wednesday."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.96,
+        "start": "8:02",
+        "end": "8:15",
+        "text": "Perfect. We have clear deliverables and deadlines. The next leadership meeting will be much more informed, thanks to this detailed discussion."
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.92,
+        "start": "8:16",
+        "end": "8:25",
+        "text": "I’ll prioritize the support audit. It feels like the most immediate, high-impact item."
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.93,
+        "start": "8:26",
+        "end": "8:38",
+        "text": "I'll get the financial comparison for the contractors underway immediately to inform the leadership decision."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.95,
+        "start": "8:39",
+        "end": "8:47",
+        "text": "Great work, everyone. This was a very productive extension to the meeting."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.97,
+        "start": "8:48",
+        "end": "9:00",
+        "text": "Agreed. Let’s reconvene as scheduled next week, and please send updates to the group email thread as you complete your tasks. Meeting officially adjourned."
     }
 ]
