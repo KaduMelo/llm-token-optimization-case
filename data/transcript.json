@@ -1,0 +1,114 @@
+[
+    {
+        "speaker": "Alice",
+        "confidence": 0.97,
+        "start": "0:00",
+        "end": "0:08",
+        "text": "Good morning, everyone. I appreciate you joining this meeting on such short notice."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.95,
+        "start": "0:09",
+        "end": "0:16",
+        "text": "Good morning, Alice. Could you please outline the key objectives for today’s discussion?"
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.96,
+        "start": "0:17",
+        "end": "0:28",
+        "text": "Certainly. The agenda consists of three items: first, the progress update on the mobile app release; second, the budget allocation for Q4; and third, the hiring plan for the engineering team."
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.94,
+        "start": "0:29",
+        "end": "0:39",
+        "text": "Regarding the mobile app, we have completed the beta testing phase. Early feedback indicates that the performance improvements were well received by our pilot users."
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.93,
+        "start": "0:40",
+        "end": "0:50",
+        "text": "That’s excellent news. Have we already identified the potential risks for the public launch scheduled next month?"
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.91,
+        "start": "0:51",
+        "end": "1:01",
+        "text": "Yes, the primary risks involve server scalability and customer support readiness. Both are being addressed with separate workstreams."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.92,
+        "start": "1:02",
+        "end": "1:12",
+        "text": "On the budget allocation, finance has approved an additional $200,000 to strengthen our infrastructure before the release."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.95,
+        "start": "1:13",
+        "end": "1:25",
+        "text": "That is reassuring. We must ensure that these funds are directed to the scalability initiatives Clara just mentioned."
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.93,
+        "start": "1:26",
+        "end": "1:40",
+        "text": "Lastly, regarding hiring, we are still short of two backend engineers. The recruiting team is expediting the process, but we may need to consider external contractors as a contingency plan."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.96,
+        "start": "1:41",
+        "end": "1:55",
+        "text": "Understood. Please prepare a detailed hiring forecast so we can evaluate both internal hires and external contractors in next week’s leadership meeting."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.94,
+        "start": "1:56",
+        "end": "2:05",
+        "text": "That covers all three agenda points. Should we proceed with summarizing the action items?"
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.95,
+        "start": "2:06",
+        "end": "2:16",
+        "text": "Yes. Clara will finalize risk mitigation on scalability, Bob will oversee the budget allocation, and Daniel will deliver the hiring forecast."
+    },
+    {
+        "speaker": "Clara",
+        "confidence": 0.93,
+        "start": "2:17",
+        "end": "2:25",
+        "text": "Confirmed. I will share my updates with the group by Friday."
+    },
+    {
+        "speaker": "Daniel",
+        "confidence": 0.92,
+        "start": "2:26",
+        "end": "2:33",
+        "text": "I will ensure the forecast is ready before next Wednesday."
+    },
+    {
+        "speaker": "Bob",
+        "confidence": 0.94,
+        "start": "2:34",
+        "end": "2:40",
+        "text": "Great. Thank you all for the productive discussion."
+    },
+    {
+        "speaker": "Alice",
+        "confidence": 0.96,
+        "start": "2:41",
+        "end": "2:47",
+        "text": "Thank you, everyone. Meeting adjourned."
+    }
+]
